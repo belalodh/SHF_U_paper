@@ -1,0 +1,8 @@
+numpy== 1.26.4
+xarray== 2024.2.0
+matplotlib== 3.6.3
+pandas== 2.1.4
+scikit-learn== 1.6.1
+cartopy== 0.24.1
+scipy== 1.11.4
+seaborn== 0.13.2
